@@ -3,3 +3,6 @@
 
 ## Repos
 >- https://github.com/danielblanco96/arquitectura-software-udemy/tree/main
+
+### Documentación
+>- https://docs.aws.amazon.com/es_es/prescriptive-guidance/latest/modernization-data-persistence/cqrs-pattern.html
